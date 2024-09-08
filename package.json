@@ -1,0 +1,14 @@
+{
+  "name": "lss-development-crud-server",
+  "version": "1.0.0",
+  "description": "Servidor para el proyecto CRUD de LSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabián Macías Esparza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
